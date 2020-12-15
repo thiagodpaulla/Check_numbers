@@ -3,7 +3,7 @@
 # Hello and welcome to my repository
 ## Meet check number project
 
-![](http:gif)
+![](https://github.com/thiagodpaulla/Check_numbers/blob/main/check_number.gif)
 
 ## Feel free to interact with the project at the link:
 https://project.github.io/
