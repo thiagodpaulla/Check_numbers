@@ -6,7 +6,7 @@
 ![](https://github.com/thiagodpaulla/Check_numbers/blob/main/check_number.gif)
 
 ## Feel free to interact with the project at the link:
-https://project.github.io/
+https://thiagodpaulla.github.io/Check_numbers/.
 
 ## Stretch a little more and, know a little more than I've been doing:
 
